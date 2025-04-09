@@ -1,6 +1,6 @@
-# Book Vault - Library Management System
+# Java Objectify - Library Management System
 
-Book Vault is a Library Management System designed to help manage books and students efficiently. It provides separate functionalities for students and librarians to interact with the system.
+Java Objectify is a Library Management System designed to help manage books and students efficiently. It provides separate functionalities for students and librarians to interact with the system.
 
 ## Features
 
